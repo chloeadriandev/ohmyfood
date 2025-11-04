@@ -45,5 +45,5 @@ This project represents a milestone in my learning: transitioning from static we
 
 ---
 
-Thanks for reading, and bon appétit!
+Thanks for reading, and bon appétit!   
 Chloé Adrian ✨
